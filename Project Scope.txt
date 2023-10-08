@@ -1,0 +1,19 @@
+I have no screenshots, no design documents, because right now I can’t even plan anything as I have Zero quota and I’m not sure I’ll ever get it.
+
+However, I can give a rough outline of the intended use of the API
+* Get list of non-private videos included in playlist, based on the playlist ID given by the user
+* Get thumbnail images, video title, uploader display name, short description for each video in the playlist.
+* allow the user to sort by video name, uploader name, upload date, or playlist position. Any DataGrid should be sortable.
+* Get link to Youtube page for each video in the playlist.
+* Optional: see if I can offer a link to a specific resolution, I don't think the API lets you do this though.
+
+I will NOT need access to the actual video content. I have no intention of hosting a player in my app, Youtube has a perfectly good GUI and player already.
+So if you want to restrict me from that, it will not impact me in any way.
+
+Project description:
+This is an educational project, not a product or service. I'm learning about how C# can be set up to access an API, how to create dynamic data structures from downloaded data from an API, how to present data in a WPF form, and how to create links in a C# app that take the user to a website in their default browser.
+
+I might experiment with creating a history list, consisting of various playlist IDs and links to them in Youtube, which would be user data stored client side in the users APPDATA folder, out of the control of the application, manually saved and loaded by the user. The application stores diddly and/or squat and it does not have a server to "phone home" to.
+
+I am teaching myself the basics of API calls and working with data from the API from C#. 
+The project is of limited duration: Once I have finished the project, or become distracted by some other project, it will be archived. I may move on to look at the Sheets API, I may chase a squirrel. I have ADHD, these personal projects tend to be short.

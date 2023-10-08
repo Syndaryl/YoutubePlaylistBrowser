@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubePlaylistBrowser", "YoutubePlaylistBrowser\YoutubePlaylistBrowser.csproj", "{24D06C3A-A704-4031-829C-2B57D741613C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{873262BA-5CA7-443A-B89F-97D63C0A9270}"
+	ProjectSection(SolutionItems) = preProject
+		Project Scope.txt = Project Scope.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeAPIConsumer", "YoutubeAPIConsumer\YoutubeAPIConsumer.csproj", "{C110EBAC-7E58-42CE-B147-66D916B8E85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D06C3A-A704-4031-829C-2B57D741613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D06C3A-A704-4031-829C-2B57D741613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D06C3A-A704-4031-829C-2B57D741613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D06C3A-A704-4031-829C-2B57D741613C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C110EBAC-7E58-42CE-B147-66D916B8E85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C110EBAC-7E58-42CE-B147-66D916B8E85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C110EBAC-7E58-42CE-B147-66D916B8E85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C110EBAC-7E58-42CE-B147-66D916B8E85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D7EE7F1-CB49-42EE-A3D0-6CF2CEDFCE7C}
+	EndGlobalSection
+EndGlobal
